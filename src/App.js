@@ -1,7 +1,6 @@
 import React from 'react';
 import { Styles } from './Styles';
 import { Formik, Form, Field, ErrorMessage } from 'formik';
-import * as Yup from 'yup';
 
 const Basic = () => (
   <Styles>
